@@ -1,0 +1,43 @@
+.price {
+  background: rgb(227, 235, 244);
+}
+
+/* .body{
+  background: #ddd;
+} */
+
+
+.pop{
+  background: #127eea;
+  color:#fff;
+  text-align: center;
+  transform: rotate(45deg);
+  padding: 8px 48px;
+  position: absolute;
+  top: 18px;
+  margin-left: 51%;
+}
+.h1 font-weight-bold center{
+  text-align: center;
+}
+
+.rounded-lg{
+  border-radius: 1rem !important;
+  position: relative;
+  overflow: hidden
+}
+
+@media(max-width:767px) {
+  h6{
+    font-size: 20px;
+  }
+  .container{
+    margin-bottom: 30px;
+  }
+  
+}
+
+
+
+
+
